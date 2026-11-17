@@ -1,0 +1,2 @@
+# Repository guidance
+These are teaching starters for moderately technical users. Read docs/AGENT_GUIDE.md and the selected template's AGENTS.md. Keep each template independently copyable. Reference clones are not distributed with this collection. Never test against live classification endpoints. Preserve offline demo mode, explicit live-write configuration, and separate API / annotation / UI responsibilities.

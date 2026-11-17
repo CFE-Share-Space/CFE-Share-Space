@@ -1,0 +1,17 @@
+{
+  "name": "cfe-typescript-starter",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build --base=./",
+    "preview": "vite preview",
+    "test": "node --experimental-strip-types --test src/core.test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "typescript": "~5.9.3",
+    "vite": "^8.3.8"
+  }
+}
