@@ -1,0 +1,11 @@
+{
+  "mode": "demo",
+  "environment": "production",
+  "projectId": "",
+  "workflowId": "",
+  "subjectSetId": "",
+  "allowLiveSubmission": false,
+  "oauthClientId": "",
+  "oauthRedirectUri": "",
+  "oauthScope": "public"
+}
